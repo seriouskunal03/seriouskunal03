@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Data Analytics, Statistics, Python, SQL, Power BI  & Tableau
 - 💞️ I’m looking to collaborate on Analytics projects
 - 📫 How to reach me iamkunalsarkar@live.com
-- 😄 Pronouns:Coding seriously to have fun.
+- 😄 Pronouns:Him
+- Fun Fact:Coding seriously to have fun.
 
 <!---
 seriouskunal03/seriouskunal03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
