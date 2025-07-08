@@ -8,9 +8,3 @@
 
 
 
-Used the Claims data from a Car insurance company to find out their KEY Claims drivers, 
--Parameters Used
-1) Select Aggregate Measure : Average of the claim Value | Total of the claim value
-2) Claim Details : Old Claim | Claim amount | Claim Frequence
-3)Gender Male | Female
-4)Marital Status Married | Un Married
